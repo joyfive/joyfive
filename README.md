@@ -7,7 +7,7 @@
 
 #### VELOG : *new!*
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=joyfive)](https://github.com/joyfive/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=joyfive)](https://velog.io/@joyfive)
 
 <br>
 

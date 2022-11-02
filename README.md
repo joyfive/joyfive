@@ -11,7 +11,7 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=joyfive)](https://velog.io/@joyfive)
 
-<br>
+<hr />
 
 ### 💙 MY GIT
 

@@ -16,8 +16,8 @@ AI 도구와 코드 에이전트를 활용해
 ## Stack Summary
 <div style="display:flex;">
   
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> · <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> · <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/> · 
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> · <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> · <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/> · 
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=Tailwind-CSS&logoColor=white"/> · <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> · <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
   <br>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> · <img src="https://img.shields.io/badge/Notion-FFFFFF?logo=notion&logoColor=black" /> · <img src="https://img.shields.io/badge/JiraSoftware-0052CC?style=flat-square&logo=Jira-Software&logoColor=white"/> · <img src="https://img.shields.io/badge/ChatGPT-FFFFFF" /> · <img src="https://img.shields.io/badge/Claude-D97757?logo=Claude&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> · <img src="https://img.shields.io/badge/Notion-FFFFFF?logo=notion&logoColor=black" /> · <img src="https://img.shields.io/badge/JiraSoftware-0052CC?style=flat-square&logo=Jira-Software&logoColor=white"/> · <img src="https://img.shields.io/badge/Chat_GPT-FFFFFF" /> · <img src="https://img.shields.io/badge/Claude-D97757?logo=Claude&logoColor=white" />
 </div>
